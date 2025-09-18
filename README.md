@@ -35,7 +35,7 @@ No hay un proceso de instalación tradicional. Simplemente descarga el repositor
 
 2. Descargar un archivo ZIP directamente desde la página del repositorio en GitHub.
 
-Una vez que tengas los archivos en tu máquina, puedes abrirlos con cualquiera de los programas mencionados en la sección de Requisitos.
+Una vez que tengas los archivos en tu máquina, puedes abrirlos con cualquiera de los programas mencionados.
 
 
 ## Soporte
