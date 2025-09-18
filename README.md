@@ -50,7 +50,7 @@ Acercate a mis redes sociales para atender tus dudas y sugerencias en la secció
 ## Licencia ✅
 Se permite el uso, copia y distribución de este proyecto, siempre y cuando se mantenga la atribución original y no se sublicencie. No se permite su distribución, modificación o uso comercial sin permiso expreso del autor.
 
-Copyright (c) 2025 at Andy. Enlace del perfil:
+Copyright (c) 2025 at Odra Sanchez. Enlace del perfil:
 <div align="center" style="display: inline_block">
   
 <a href="https://github.com/odrasanchezdev">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
@@ -61,7 +61,7 @@ Copyright (c) 2025 at Andy. Enlace del perfil:
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 <div align="center" style="display: inline_block;">
   
- <a href="https://odrasanchezdev.super.site/">![Mysite](https://img.shields.io/badge/servicios-071739?style=for-the-badge)</a>
+ <a href="https://odrasanchezdev.super.site/">![Servicios](https://img.shields.io/badge/servicios-071739?style=for-the-badge)</a>
  <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-004e89?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge)</a>
  <a href="https://www.behance.net/odrasanchezdev">![Behance](https://img.shields.io/badge/-B&emacr;hance-1982c4?style=for-the-badge)</a>
