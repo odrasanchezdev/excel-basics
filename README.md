@@ -22,7 +22,7 @@
   - Existe una secuencia en los temas de aprendizaje para facilitar el camino, los temas cuentan con númeración aunque se pueden consultar los temas sin un orden especifico pues son independientes
 <br>
 
-## Instalación y uso
+## Instalación y uso 🚀
 Para poder utilizar los archivos de este repositorio, necesitarás un programa de hoja de cálculo compatible con archivos .xlsx o .xls. Las opciones más comunes incluyen:
   * Microsoft Excel 🟢
   * Google Sheets 💻 (para ver y editar en línea)
@@ -37,6 +37,7 @@ No hay un proceso de instalación tradicional. Simplemente descarga el repositor
 
 Una vez que tengas los archivos en tu máquina, puedes abrirlos con cualquiera de los programas mencionados.
 
+<br>
 
 ## Soporte
 Si tienes alguna pregunta, encuentras un error en alguno de los documentos o deseas sugerir una mejora, ¡no dudes en abrir un issue en este repositorio! Nos encantaría recibir tus comentarios.
@@ -45,6 +46,7 @@ Si tienes alguna pregunta, encuentras un error en alguno de los documentos o des
 * ¿Tienes una sugerencia? Abre un issue y comparte tu idea.
 
 Acercate a mis redes sociales para atender tus dudas y sugerencias en la sección de [Contacto](#contacto-)
+
 <br>
 
 ## Licencia ✅
@@ -55,6 +57,7 @@ Copyright (c) 2025 at Odra Sanchez. Enlace del perfil:
   
 <a href="https://github.com/odrasanchezdev">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 </div>
+
 <br>
 
 ## Contacto 🌐
