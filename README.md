@@ -1,12 +1,12 @@
 # EXCEL Basics: Practicas introductorias
 
 ## Descripción
-> Este repositorio contiene una serie de prácticas y ejercicios en formato XLSX, ideales para quienes se inician en el manejo de Microsoft Excel. Los materiales están diseñados para facilitar la comprensión de conceptos y fórmulas fundamentales, y se encuentran estructurados en módulos temáticos con instrucciones claras en español.
+> Serie de prácticas y ejercicios en formato XLSX, ideales para quiénes se inician en el manejo de Microsoft Excel. Los materiales están diseñados para facilitar la comprensión de conceptos y fórmulas fundamentales, y se encuentran estructurados en módulos temáticos con instrucciones claras en español.
 <br>
 
 ## Estado del repositorio 📊️
 <div align="center" style="display: inline_block">
-<img src="https://img.shields.io/badge/Coverage-0%25-7389A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Avance-0%25-7389A6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Version-1.0-7389A6?style=for-the-badge" />
 </div>
 <br>
@@ -18,8 +18,8 @@
 <br>
 
 ### Notas importantes ⚠
-  - Los documentos cuentan con comentarios, observaciones y fórmulas en español.
-  - Existe una secuencia en los temas de aprendizaje para facilitar el camino, los temas cuentan con númeración aunque se pueden consultar los temas sin un orden especifico pues son independientes
+  - Los documentos cuentan con comentarios, observaciones y fórmulas en español (*The programs include comments, observations, and explanatory formulas written primarily in Spanish to help clarify the code and its purpose*).
+  - Los temas están secuenciados y numerados para facilitar una progresión de aprendizaje guiada. No obstante, cada tema puede consultarse de forma independiente según las necesidades específicas del usuario.
 <br>
 
 ## Instalación y uso 🚀
@@ -40,7 +40,7 @@ Una vez que tengas los archivos en tu máquina, puedes abrirlos con cualquiera d
 <br>
 
 ## Soporte
-Si tienes alguna pregunta, encuentras un error en alguno de los documentos o deseas sugerir una mejora, ¡no dudes en abrir un issue en este repositorio! Nos encantaría recibir tus comentarios.
+Si tienes alguna pregunta, encuentras un error en alguno de los documentos o deseas sugerir una mejora, ¡no dudes en abrir un issue en este repositorio! Me encantaría recibir tus comentarios.
 
 * ¿Encontraste un error? Abre un issue y describe el problema.
 * ¿Tienes una sugerencia? Abre un issue y comparte tu idea.
